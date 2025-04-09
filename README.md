@@ -35,6 +35,7 @@
 - [TMDB Search](https://github.com/zadjii/CmdPalExtensions) - Search for movies, and find out what streaming services they're available on.
 - [Obsidian](https://github.com/zadjii/CmdPalExtensions) - Search your notes in Obsidian. View them in the palette & make quick edits.
 - [Edge Favorites](https://github.com/davidegiacometti/CmdPal-Extensions) - Search Microsoft Edge favorites.
+- [Everything](https://github.com/lin-ycv/EverythingCommandPalette) - Search your computer for files and folders using Everything inside CmdPal.
 
 ## Contributing
 
