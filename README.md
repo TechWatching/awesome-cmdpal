@@ -25,6 +25,7 @@
 
 - [Mastodon](https://github.com/zadjii/CmdPalExtensions) - View posts on mastodon.social. Sign in to view your home timeline & favorite posts.
 - [Hacker News](https://github.com/zadjii/CmdPalExtensions) - View top posts on Hacker News.
+- [RSS](https://github.com/Tlaster/RSS) - View RSS feeds from inside the Command Palette.
 
 ### Icons & Fonts
 
