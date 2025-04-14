@@ -25,6 +25,7 @@
 
 - [Mastodon](https://github.com/zadjii/CmdPalExtensions) - View posts on mastodon.social. Sign in to view your home timeline & favorite posts.
 - [Hacker News](https://github.com/zadjii/CmdPalExtensions) - View top posts on Hacker News.
+- [RSS](https://github.com/Tlaster/RSS) - View RSS feeds from inside the Command Palette.
 
 ### Icons & Fonts
 
@@ -35,6 +36,7 @@
 - [TMDB Search](https://github.com/zadjii/CmdPalExtensions) - Search for movies, and find out what streaming services they're available on.
 - [Obsidian](https://github.com/zadjii/CmdPalExtensions) - Search your notes in Obsidian. View them in the palette & make quick edits.
 - [Edge Favorites](https://github.com/davidegiacometti/CmdPal-Extensions) - Search Microsoft Edge favorites.
+- [Currency Converter](https://github.com/Tlaster/CurrencyConverter) - Convert currencies fast.
 - [Everything](https://github.com/lin-ycv/EverythingCommandPalette) - Search your computer for files and folders using Everything inside CmdPal.
 
 ## Contributing
