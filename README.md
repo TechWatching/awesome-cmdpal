@@ -51,6 +51,7 @@
 - [Obsidian](https://github.com/zadjii/CmdPalExtensions) - Search your notes in Obsidian. View them in the palette & make quick edits.
 - [Edge Favorites](https://github.com/davidegiacometti/CmdPal-Extensions) - Search Microsoft Edge favorites.
 - [LLM](https://github.com/LioQing/llm-extension-for-cmd-pal) - Chat with a LLM directly from CmdPal.
+- [Define Word Extension](https://github.com/TheStarSlayer/Define-Word-Extension) - Find on-the-fly definitions for English words.
 
 ## Contributing
 
