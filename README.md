@@ -20,7 +20,7 @@
 ### Developer Tools
 
 - [Visual Studio](https://github.com/davidegiacometti/CmdPal-Extensions) - Search Visual Studio recents.
-- [Visual Studio Code](https://github.com/JonahFintzDev/CommandPaletteVSCode) - Open Visual Studio Code workspaces.
+- [Visual Studio Code](https://github.com/tanchekwei/VisualStudioCodeForCommandPalette) - Open Visual Studio Code/Visual Studio workspaces.
 
 ### Files 
 
